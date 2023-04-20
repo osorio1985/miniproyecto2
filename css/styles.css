@@ -1,0 +1,24 @@
+
+/* Font Family 
+font-family: 'Montserrat', sans-serif;
+font-family: 'Mulish', sans-serif;
+*/
+.img-card {
+    width: 350px;
+}
+
+.img-card img{
+    aspect-ratio: 3/2;
+    object-fit: cover;
+}
+
+.imagen{
+    width: 100%;
+}
+.letra{
+    font-size: 10px;
+
+}
+.locationIcon{
+    width: 50px;
+}
